@@ -1,0 +1,213 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": false,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": true,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "bundle": false,
+    "useIsolateContext": true,
+    "useCompilerModule": true,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "useMultiFrameRuntime": false,
+    "useApiHook": true,
+    "enableEngineNative": false,
+    "userConfirmedBundleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.14.1",
+  "appid": "wx756cdd15fd0304ab",
+  "projectname": "%E7%99%BE%E8%B4%A7%E5%95%86%E5%9F%8E---%E6%9C%80%E7%BB%88%E7%89%88",
+  "scripts": {},
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "id": -1,
+          "name": "home",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "商品详情页面",
+          "pathName": "pages/goods-details/index",
+          "query": "id=134&inviter_id=456",
+          "scene": 1011
+        },
+        {
+          "id": -1,
+          "name": "商品详情页面",
+          "pathName": "pages/goods-details/index",
+          "query": "id= 6761",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "砍价详情页面",
+          "pathName": "pages/goods-details/index",
+          "query": "id=6765",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "砍价详情页面",
+          "pathName": "pages/goods-details/index",
+          "query": "id=6765&kjJoinUid=701677",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "拼团",
+          "pathName": "pages/goods-details/index",
+          "query": "id=6761",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "生成海报",
+          "pathName": "pages/goods-details/poster",
+          "query": "goodsid=6761",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "分销中心",
+          "pathName": "pages/fx/apply-status",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "notice",
+          "pathName": "pages/notice/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "首页",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "详情",
+          "pathName": "pages/goods-details/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "更多",
+          "pathName": "pages/more/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages/category/index",
+          "pathName": "pages/category/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages/select-address/index",
+          "pathName": "pages/select-address/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages/kanjia/index",
+          "pathName": "pages/kanjia/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages/kanjiaList/index",
+          "pathName": "pages/kanjiaList/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "pages/signs/index",
+          "pathName": "pages/signs/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "砍价页面",
+          "pathName": "pages/kanjia/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "砍价列表",
+          "pathName": "pages/kanjiaList/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "商品评价",
+          "pathName": "pages/goods-details/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": 20,
+          "name": "商品详细",
+          "pathName": "pages/goods-details/index",
+          "query": "id=449",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
